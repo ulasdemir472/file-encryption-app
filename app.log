@@ -1,0 +1,75 @@
+2024-01-07 18:21:22,641 - INFO - Uygulama baslatildi.
+2024-01-07 18:21:23,749 - INFO - Kullanici secenek 2'yi seçti.
+2024-01-07 18:21:26,323 - INFO - Kullanici ba\u015far\u0131yla giri\u015f yapt\u0131.
+2024-01-07 18:21:28,324 - INFO - Kullanici secenek 4'ü seçti.
+2024-01-07 18:21:33,629 - INFO - Desifreleme ve Dogrulama islemi basariyla tamamlandi.
+2024-01-07 18:21:33,629 - INFO - Dosya sifrelendi ve private key mail yoluyla gonderildi.
+2024-01-07 18:21:35,173 - INFO - Kullanici secenek 5'i seçti.
+2024-01-07 18:21:48,250 - INFO - Kullanici cikis yapti.
+2024-01-10 19:03:49,802 - INFO - Uygulama baslatildi.
+2024-01-10 19:03:51,805 - INFO - Kullanici secenek 1'i seçti.
+2024-01-10 19:03:56,435 - ERROR - Uygulama calisirken bir hata olu\u015ftu: cannot access local variable 'h0' where it is not associated with a value
+2024-01-10 19:06:42,055 - INFO - Uygulama baslatildi.
+2024-01-10 19:06:45,122 - INFO - Kullanici secenek 1'i seçti.
+2024-01-10 19:06:48,003 - ERROR - Uygulama calisirken bir hata olu\u015ftu: 'int' object has no attribute 'hexdigest'
+2024-01-10 19:08:12,433 - INFO - Uygulama baslatildi.
+2024-01-10 19:08:13,870 - INFO - Kullanici secenek 1'i seçti.
+2024-01-10 19:08:16,559 - INFO - Kullanici ba\u015far\u0131yla kay\u0131t oldu.
+2024-01-10 19:09:03,510 - INFO - Kullanici cikis yapti.
+2024-01-10 19:09:05,439 - INFO - Uygulama baslatildi.
+2024-01-10 19:09:07,188 - INFO - Kullanici secenek 2'yi seçti.
+2024-01-10 19:09:09,847 - INFO - Kullanici ba\u015far\u0131yla giri\u015f yapt\u0131.
+2024-01-10 19:09:25,391 - INFO - Kullanici secenek 3'ü seçti.
+2024-01-10 19:09:35,416 - INFO - Kullanici ba\u015far\u0131yla silindi.
+2024-01-10 19:09:38,862 - INFO - Kullanici cikis yapti.
+2024-01-10 19:11:53,850 - INFO - Uygulama baslatildi.
+2024-01-10 19:11:55,462 - INFO - Kullanici secenek 1'i seçti.
+2024-01-10 19:11:59,796 - INFO - Kullanici ba\u015far\u0131yla kay\u0131t oldu.
+2024-01-10 19:12:05,144 - INFO - Kullanici secenek 3'ü seçti.
+2024-01-10 19:12:08,714 - INFO - Kullanici ba\u015far\u0131yla silindi.
+2024-01-10 19:12:19,439 - INFO - Kullanici cikis yapti.
+2024-01-10 19:12:21,182 - INFO - Uygulama baslatildi.
+2024-01-10 19:12:22,585 - INFO - Kullanici secenek 3'ü seçti.
+2024-01-10 19:12:25,980 - INFO - Kullanici ba\u015far\u0131yla silindi.
+2024-01-10 19:12:30,635 - ERROR - Uygulama calisirken bir hata olu\u015ftu: cannot access local variable 'e' where it is not associated with a value
+2024-01-10 19:12:34,201 - INFO - Uygulama baslatildi.
+2024-01-10 19:12:36,133 - INFO - Kullanici cikis yapti.
+2024-01-10 19:12:39,343 - INFO - Uygulama baslatildi.
+2024-01-10 19:12:41,343 - INFO - Kullanici secenek 3'ü seçti.
+2024-01-10 19:12:44,170 - INFO - Kullanici ba\u015far\u0131yla silindi.
+2024-01-10 19:12:55,644 - INFO - Kullanici cikis yapti.
+2024-01-10 19:13:21,254 - INFO - Uygulama baslatildi.
+2024-01-10 19:13:22,569 - INFO - Kullanici secenek 3'ü seçti.
+2024-01-10 19:13:24,838 - INFO - Kullanici ba\u015far\u0131yla silindi.
+2024-01-10 19:13:39,704 - INFO - Kullanici cikis yapti.
+2024-01-10 19:13:41,408 - INFO - Uygulama baslatildi.
+2024-01-10 19:13:42,395 - INFO - Kullanici secenek 3'ü seçti.
+2024-01-10 19:13:44,962 - INFO - Kullanici ba\u015far\u0131yla silindi.
+2024-01-10 19:13:48,135 - INFO - Kullanici secenek 3'ü seçti.
+2024-01-10 19:13:54,134 - INFO - Kullanici ba\u015far\u0131yla silindi.
+2024-01-10 19:13:56,851 - INFO - Kullanici secenek 5'i seçti.
+2024-01-10 19:13:56,851 - ERROR - Uygulama calisirken bir hata olu\u015ftu: name 'user' is not defined
+2024-01-10 19:16:55,285 - INFO - Uygulama baslatildi.
+2024-01-10 19:17:01,604 - INFO - Kullanici secenek 1'i seçti.
+2024-01-10 19:17:04,739 - INFO - Kullanici ba\u015far\u0131yla kay\u0131t oldu.
+2024-01-10 19:17:10,052 - INFO - Kullanici secenek 1'i seçti.
+2024-01-10 19:17:14,713 - INFO - Kullanici ba\u015far\u0131yla kay\u0131t oldu.
+2024-01-10 19:17:17,599 - INFO - Kullanici secenek 2'yi seçti.
+2024-01-10 19:17:20,361 - INFO - Kullanici ba\u015far\u0131yla giri\u015f yapt\u0131.
+2024-01-10 19:17:36,595 - INFO - Kullanici secenek 1'i seçti.
+2024-01-10 19:17:40,987 - INFO - Kullanici ba\u015far\u0131yla kay\u0131t oldu.
+2024-01-10 19:17:51,467 - INFO - Kullanici cikis yapti.
+2024-01-11 09:50:58,826 - INFO - Uygulama baslatildi.
+2024-01-11 09:57:04,954 - INFO - Uygulama baslatildi.
+2024-01-11 09:57:10,904 - INFO - Kullanici secenek 1'i seçti.
+2024-01-11 09:57:22,239 - INFO - Kullanici ba\u015far\u0131yla kay\u0131t oldu.
+2024-01-11 09:58:30,999 - INFO - Kullanici secenek 4'ü seçti.
+2024-01-11 09:58:30,999 - ERROR - Uygulama calisirken bir hata olu\u015ftu: name 'user' is not defined
+2024-01-11 09:58:42,763 - INFO - Uygulama baslatildi.
+2024-01-11 09:58:44,209 - INFO - Kullanici secenek 2'yi seçti.
+2024-01-11 09:58:47,719 - INFO - Kullanici ba\u015far\u0131yla giri\u015f yapt\u0131.
+2024-01-11 09:58:52,449 - INFO - Kullanici secenek 4'ü seçti.
+2024-01-11 09:59:01,073 - INFO - Desifreleme ve Dogrulama islemi basariyla tamamlandi.
+2024-01-11 09:59:01,073 - INFO - Dosya sifrelendi ve private key mail yoluyla gonderildi.
+2024-01-11 09:59:49,549 - INFO - Kullanici secenek 5'i seçti.
+2024-01-11 10:00:58,022 - INFO - Kullanici cikis yapti.
